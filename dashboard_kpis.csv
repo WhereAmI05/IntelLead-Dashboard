@@ -1,0 +1,19 @@
+﻿kpi,valeur,unité,fiabilité
+Encaissements totaux (2024-2025),2158398.5700000003,MAD,Réelle
+Dépenses totales (2024-2025),2147571.25,MAD,Réelle
+Net trésorerie,10827.320000000298,MAD,Réelle
+Budget SalesX prévu,250000.0,MAD,Réelle
+Budget SalesX réalisé (estimé),123500.0,MAD,Estimée
+Budget SalesX restant,126500.0,MAD,Calculée
+Consommation budget SalesX (%),49.4,%,Calculée
+Subvention Startup Maroc,200000.0,MAD,Réelle
+CA NORA HT (factures),153650.0,MAD,Réelle
+Montant encaissé NORA,129340.0,MAD,Réelle
+Reste à encaisser NORA,55040.0,MAD,Calculée
+Marge brute NORA estimée,61650.0,MAD,Estimée
+Taux marge brute NORA (%),40.1,%,Estimée
+Factures NORA non soldées,7.0,factures,Réelle
+Obligations ÉLEVÉ risque,6.0,obligations,Réelle
+Obligations MOYEN risque,3.0,obligations,Réelle
+CAC prévisionnel SalesX (scénario réaliste),3000.0,MAD/client,Hypothèse BP
+Seuil rentabilité SalesX (nb clients),13.3,clients,Hypothèse

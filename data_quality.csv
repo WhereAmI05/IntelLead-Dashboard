@@ -1,0 +1,9 @@
+﻿Source,Champ,Problème,Sévérité,Recommandation
+FinancePilot360 REGUL,TVA 2024-2025,Données manquantes,ÉLEVÉE,Consulter DGI
+FinancePilot360 REGUL,IS / Acomptes,Données manquantes,ÉLEVÉE,Calculer base imposable
+FinancePilot360 SALESX,Dépenses réalisées SalesX,Non exhaustif,ÉLEVÉE,Collecter justificatifs
+FinancePilot360 SALESX,Prix abonnement/licence,Contradiction (5k-54k MAD/an),ÉLEVÉE,Clarifier avec dirigeant
+NORA Factures,Nb participants,Toutes valeurs manquantes,MOYENNE,Compléter pour calcul CAC
+NORA Coûts,Affectation formation,Tous 'À ventiler',MOYENNE,Ventiler par formation
+Trésorerie,Code client,Absent pour certaines dépenses,FAIBLE,Tracer les virements anonymes
+FinancePilot360 NORA,Coûts réels par formation,Non trouvé exhaustivement,ÉLEVÉE,Créer table de coûts par session

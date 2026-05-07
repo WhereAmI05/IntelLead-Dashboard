@@ -1,0 +1,8 @@
+﻿Catégorie,Sous_catégorie,Budget_prévu,Réalisé_estimé,Reste,Statut,Fiabilité,Éligible_subvention,Commentaire,Consommation_%,Écart
+Développement produit,Plateforme front-end + liaison backend,40000,12000,28000,En cours,Réelle,True,Plateforme front-end en préparation selon brief,30.0,28000
+Développement produit,Optimisation scripts,40000,35000,5000,Avancé,Estimée,True,Scripts opérationnels et testés selon brief,87.5,5000
+Ressources humaines,Ingénieur data science,50000,45000,5000,Avancé,Estimée,True,Freelance actif sur le projet,90.0,5000
+Ressources humaines,Second ingénieur support,40000,15000,25000,En cours,Estimée,True,Recrutement en cours,37.5,25000
+Marketing & commercial,Campagnes acquisition,30000,5000,25000,Non démarré,Estimée,True,Lancement prévu au MVP - budget non encore engagé,16.7,25000
+Marketing & commercial,Support commercial,30000,3000,27000,Non démarré,Estimée,True,À démarrer après MVP,10.0,27000
+Frais opérationnels,Hébergement & outils SaaS,20000,8500,11500,En cours,Estimée,True,"OpenAI, outils cloud, domaines",42.5,11500

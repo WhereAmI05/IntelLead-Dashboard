@@ -1,0 +1,22 @@
+﻿id,client,secteur,type_formation,format,dates,annee,nb_sessions,ca_ht,montant_ttc,encaisse,reste_a_encaisser,cout_direct_estime,marge_brute_estimee,taux_marge_brute,statut_encaissement,alerte
+NORA-B2B-001,AVA***,Événementiel / production / créatif,Formation IA sur mesure B2B,Présentiel,03 et 05/03/2026,2026,2.0,16000,19200,19200.0,0.0,4000.0,12000.0,75.0,Rapproché complet,✅ Encaissé
+NORA-B2B-002,AVA***,Événementiel / production / créatif,Formation IA sur mesure B2B,Présentiel,06 et 16/03/2026,2026,2.0,16000,19200,0.0,19200.0,4000.0,12000.0,75.0,Non rapproché / à vérifier,⚠ Non encaissé
+NORA-B2B-003,COL***,Enseignement supérieur,Formation IA pour enseignants,Présentiel,19/04 et 26/04/2025,2025,2.0,7200,8640,8640.0,0.0,4000.0,3200.0,44.4,Rapproché complet,✅ Encaissé
+NORA-B2B-004,HEM***,Enseignement supérieur,Formation IA pour enseignants,Présentiel,12/04 et 17/05/2025,2025,2.0,7200,8640,8640.0,0.0,4000.0,3200.0,44.4,Rapproché complet,✅ Encaissé
+NORA-B2B-005,ICO***,Digital / communication / à confirmer,Formation IA Tanger,Présentiel,08/12/2025,2025,1.0,6000,7200,7200.0,0.0,2000.0,4000.0,66.7,Rapproché complet,✅ Encaissé
+NORA-B2B-006,AIK***,Direction générale / groupe diversifié à confirmer,Formation IA personnalisée pour PDG,Présentiel,"18, 19 et 26/03/2026",2026,4.0,6000,7200,0.0,7200.0,8000.0,-2000.0,-33.3,Non rapproché / à vérifier,⚠ Non encaissé
+NORA-B2B-007,TIM***,Télécom / formation professionnelle,Formation IA pour enseignants,Présentiel,22 et 23/05/2025,2025,2.0,4400,5280,5280.0,0.0,4000.0,400.0,9.1,Rapproché complet,✅ Encaissé
+NORA-B2B-008,TIM***,Télécom / formation professionnelle,Formation IA pour enseignants,Présentiel,17 et 18/07/2025,2025,2.0,4400,5280,5280.0,0.0,4000.0,400.0,9.1,Rapproché complet,✅ Encaissé
+NORA-B2B-009,TIM***,Télécom / formation professionnelle,Formation IA équipes vente/marketing/SI,Présentiel,"10, 11, 27 et 28/11/2025",2025,4.0,11000,13200,13200.0,0.0,8000.0,3000.0,27.3,Rapproché complet,✅ Encaissé
+NORA-B2B-010,TIM***,Télécom / formation professionnelle,Formation IA équipe SI,Présentiel,27 et 28/04/2026,2026,2.0,5500,6600,0.0,6600.0,4000.0,1500.0,27.3,À suivre - relevé post 04/05/2026 non fourni,⚠ Non encaissé
+NORA-B2B-011,TIM***,Télécom / formation professionnelle,Formation IA Smart Manager,Présentiel,06 et 07/04/2026,2026,2.0,4950,5940,0.0,5940.0,4000.0,950.0,19.2,À suivre - relevé post 10/04/2026 non fourni,⚠ Non encaissé
+NORA-B2B-012,TIM***,Télécom / formation professionnelle,Formation IA Marketing,Présentiel,15 et 16/09/2025,2025,2.0,5500,6600,6600.0,0.0,4000.0,1500.0,27.3,Rapproché complet,✅ Encaissé
+NORA-B2B-013,TIM***,Télécom / formation professionnelle,Formation IA équipes commerciale/support,Présentiel,"12,13,19 et 20/01/2026",2026,4.0,11000,13200,0.0,13200.0,8000.0,3000.0,27.3,Non rapproché / à vérifier,⚠ Non encaissé
+NORA-B2B-014,TIM***,Télécom / formation professionnelle,Formation IA vente et marketing,Présentiel,05 et 06/02/2026,2026,2.0,5500,6600,6600.0,0.0,4000.0,1500.0,27.3,Rapproché complet,✅ Encaissé
+NORA-B2B-015,TIM***,Télécom / formation professionnelle,Formation IA Marketing,Présentiel,25-26/09 et 02-03/10/2025,2025,4.0,11000,13200,13200.0,0.0,8000.0,3000.0,27.3,Rapproché complet,✅ Encaissé
+NORA-B2B-016,GRO***,À confirmer,Formation IA,Présentiel,20/06/2025,2025,1.0,3500,4200,4200.0,0.0,2000.0,1500.0,42.9,Rapproché complet,✅ Encaissé
+NORA-B2B-017,MYE***,Entrepreneuriat / formation à confirmer,Formation IA,Présentiel,14 et 15/06/2025,2025,2.0,5000,6000,5500.0,500.0,4000.0,1000.0,20.0,Écart / paiement partiel à vérifier,⚠ Non encaissé
+NORA-B2B-018,TEA***,Conseil / formation / institution culturelle,Formation IA pour institution,Présentiel,10 et 11/07/2025,2025,2.0,8000,9600,9600.0,0.0,4000.0,4000.0,50.0,Rapproché complet en 2 paiements,✅ Encaissé
+NORA-B2B-019,TEA***,Conseil / institution culturelle,Formation IA pour Institut Français Casablanca,Présentiel,04/12/2025,2025,0.5,2000,2400,0.0,2400.0,1000.0,1000.0,50.0,Facturé - paiement à confirmer,⚠ Non encaissé
+NORA-B2B-020,TEA***,Conseil / agriculture / institutionnel,Audit des tâches + atelier IA,Présentiel,04/11/2025 et 25/11/2025,2025,1.5,6000,7200,7200.0,0.0,3000.0,3000.0,50.0,Rapproché complet,✅ Encaissé
+NORA-B2B-021,PHI***,Pharmaceutique / formation santé,Formation IA,Présentiel,17/03/2025,2025,2.0,7500,9000,9000.0,0.0,4000.0,3500.0,46.7,Rapproché probable,✅ Encaissé

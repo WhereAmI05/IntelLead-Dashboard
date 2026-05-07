@@ -1,0 +1,80 @@
+﻿id,date,ref,categorie,sous_categorie,montant,affectation,source,mois
+CT-086,2025-06-05,0W7682,Retrait caisse à justifier,Espèces,1800.0,À ventiler,Relevé bancaire SALESFLOW de Avril à aout 2025.pdf,2025-06
+CT-087,2025-06-12,0B1020,Retrait caisse à justifier,Espèces,100.0,À ventiler,Relevé bancaire SALESFLOW de Avril à aout 2025.pdf,2025-06
+CT-088,2025-06-12,0E3295,Retrait caisse à justifier,Espèces,500.0,À ventiler,Relevé bancaire SALESFLOW de Avril à aout 2025.pdf,2025-06
+CT-091,2025-06-14,0E6839,Retrait caisse à justifier,Espèces,1000.0,À ventiler,Relevé bancaire SALESFLOW de Avril à aout 2025.pdf,2025-06
+CT-092,2025-06-16,0G4147,Retrait caisse à justifier,Espèces,500.0,À ventiler,Relevé bancaire SALESFLOW de Avril à aout 2025.pdf,2025-06
+CT-093,2025-06-17,880003,Retrait caisse à justifier,Espèces,1000.0,À ventiler,Relevé bancaire SALESFLOW de Avril à aout 2025.pdf,2025-06
+CT-096,2025-06-23,800003,Retrait caisse à justifier,Espèces,1500.0,À ventiler,Relevé bancaire SALESFLOW de Avril à aout 2025.pdf,2025-06
+CT-097,2025-06-24,0N3151,Retrait caisse à justifier,Espèces,2000.0,À ventiler,Relevé bancaire SALESFLOW de Avril à aout 2025.pdf,2025-06
+CT-101,2025-07-07,370003,Retrait caisse à justifier,Espèces,1000.0,À ventiler,Relevé bancaire SALESFLOW de Avril à aout 2025.pdf,2025-07
+CT-103,2025-07-12,0Y4247,Retrait caisse à justifier,Espèces,700.0,À ventiler,Relevé bancaire SALESFLOW de Avril à aout 2025.pdf,2025-07
+CT-104,2025-07-14,750205,Déplacement / logistique,ONCF,70.0,À ventiler,Relevé bancaire SALESFLOW de Avril à aout 2025.pdf,2025-07
+CT-105,2025-07-14,546232,Déplacement / logistique,ONCF,70.0,À ventiler,Relevé bancaire SALESFLOW de Avril à aout 2025.pdf,2025-07
+CT-108,2025-07-16,100007,Retrait caisse à justifier,Espèces,500.0,À ventiler,Relevé bancaire SALESFLOW de Avril à aout 2025.pdf,2025-07
+CT-110,2025-07-21,567975,Déplacement / logistique,ONCF,70.0,À ventiler,Relevé bancaire SALESFLOW de Avril à aout 2025.pdf,2025-07
+CT-111,2025-07-21,822074,Déplacement / logistique,ONCF,45.0,À ventiler,Relevé bancaire SALESFLOW de Avril à aout 2025.pdf,2025-07
+CT-112,2025-07-22,573637,Déplacement / logistique,ONCF,70.0,À ventiler,Relevé bancaire SALESFLOW de Avril à aout 2025.pdf,2025-07
+CT-116,2025-07-25,0Q7144,Retrait caisse à justifier,Espèces,1000.0,À ventiler,Relevé bancaire SALESFLOW de Avril à aout 2025.pdf,2025-07
+CT-118,2025-07-28,0P2032,Retrait caisse à justifier,Espèces,500.0,À ventiler,Relevé bancaire SALESFLOW de Avril à aout 2025.pdf,2025-07
+CT-122,2025-08-07,300006,Retrait caisse à justifier,Espèces,300.0,À ventiler,Relevé bancaire SALESFLOW de Avril à aout 2025.pdf,2025-08
+CT-168,2025-09-08,090322,Paiement prestataire/freelance potentiel,Aymen,3500.0,À ventiler,Relevé bancaire SALESFLOW Septembre 2025.pdf,2025-09
+CT-MAN-001,2025-09-08,909446,Hôtel / logistique,Hôtel,3640.0,À ventiler,Relevé bancaire SALESFLOW Septembre 2025.pdf,2025-09
+CT-169,2025-09-09,129796,Paiement prestataire/freelance potentiel,Aymen,2600.0,À ventiler,Relevé bancaire SALESFLOW Septembre 2025.pdf,2025-09
+CT-171,2025-09-15,800007,Retrait caisse à justifier,Espèces,1000.0,À ventiler,Relevé bancaire SALESFLOW Septembre 2025.pdf,2025-09
+CT-172,2025-09-15,182115,Paiement prestataire/freelance potentiel,Aymen,2500.0,À ventiler,Relevé bancaire SALESFLOW Septembre 2025.pdf,2025-09
+CT-MAN-002,2025-09-17,024727,Hôtel / logistique,Hôtel,2600.0,À ventiler,Relevé bancaire SALESFLOW Septembre 2025.pdf,2025-09
+CT-175,2025-09-19,194016,Déplacement / logistique,ONCF,70.0,À ventiler,Relevé bancaire SALESFLOW Septembre 2025.pdf,2025-09
+CT-176,2025-09-19,700001,Retrait caisse à justifier,Espèces,500.0,À ventiler,Relevé bancaire SALESFLOW Septembre 2025.pdf,2025-09
+CT-177,2025-09-22,257389,Paiement prestataire/freelance potentiel,Aymen,4000.0,À ventiler,Relevé bancaire SALESFLOW Septembre 2025.pdf,2025-09
+CT-178,2025-09-22,0G3026,Retrait caisse à justifier,Espèces,500.0,À ventiler,Relevé bancaire SALESFLOW Septembre 2025.pdf,2025-09
+CT-179,2025-09-24,297205,Paiement prestataire/freelance potentiel,Aymen,2000.0,À ventiler,Relevé bancaire SALESFLOW Septembre 2025.pdf,2025-09
+CT-183,2025-09-30,292159,Déplacement / logistique,ONCF,70.0,À ventiler,Relevé bancaire SALESFLOW Septembre 2025.pdf,2025-09
+CT-019,2025-10-02,428791,Paiement prestataire/freelance potentiel,Aymen,2450.0,À ventiler,Relevé bancaire SALESFLOW de Octobre 2025.pdf,2025-10
+CT-028,2025-10-13,566501,Paiement prestataire/freelance potentiel,Aymen,5000.0,À ventiler,Relevé bancaire SALESFLOW de Octobre 2025.pdf,2025-10
+CT-029,2025-10-15,608643,Paiement prestataire/freelance potentiel,Aymen,900.0,À ventiler,Relevé bancaire SALESFLOW de Octobre 2025.pdf,2025-10
+CT-030,2025-10-15,619412,Paiement prestataire/freelance potentiel,Ahmed,3900.0,À ventiler,Relevé bancaire SALESFLOW de Octobre 2025.pdf,2025-10
+CT-031,2025-10-17,471167,Déplacement / logistique,ONCF,70.0,À ventiler,Relevé bancaire SALESFLOW de Octobre 2025.pdf,2025-10
+CT-032,2025-10-20,0X4793,Retrait caisse à justifier,Espèces,500.0,À ventiler,Relevé bancaire SALESFLOW de Octobre 2025.pdf,2025-10
+CT-034,2025-10-22,773216,Déplacement / logistique,ONCF,70.0,À ventiler,Relevé bancaire SALESFLOW de Octobre 2025.pdf,2025-10
+CT-035,2025-10-22,0M1712,Retrait caisse à justifier,Espèces,1000.0,À ventiler,Relevé bancaire SALESFLOW de Octobre 2025.pdf,2025-10
+CT-036,2025-10-24,541348,Déplacement / logistique,ONCF,70.0,À ventiler,Relevé bancaire SALESFLOW de Octobre 2025.pdf,2025-10
+CT-037,2025-10-24,700003,Retrait caisse à justifier,Espèces,1000.0,À ventiler,Relevé bancaire SALESFLOW de Octobre 2025.pdf,2025-10
+CT-038,2025-10-24,725549,Paiement prestataire/freelance potentiel,Ahmed,1000.0,À ventiler,Relevé bancaire SALESFLOW de Octobre 2025.pdf,2025-10
+CT-039,2025-10-26,0J6237,Retrait caisse à justifier,Espèces,300.0,À ventiler,Relevé bancaire SALESFLOW de Octobre 2025.pdf,2025-10
+CT-041,2025-10-28,766585,Paiement prestataire/freelance potentiel,Ahmed,1000.0,À ventiler,Relevé bancaire SALESFLOW de Octobre 2025.pdf,2025-10
+CT-042,2025-10-29,586237,Déplacement / logistique,ONCF,205.0,À ventiler,Relevé bancaire SALESFLOW de Octobre 2025.pdf,2025-10
+CT-044,2025-10-29,929563,Déplacement / logistique,ONCF,270.0,À ventiler,Relevé bancaire SALESFLOW de Octobre 2025.pdf,2025-10
+CT-MAN-003,2025-11-04,702181,Hôtel / logistique,Hôtel,754.0,À ventiler,Relevé bancaire SALESFLOW Novembre 2025.pdf,2025-11
+CT-154,2025-11-08,0A3093,Retrait caisse à justifier,Espèces,1000.0,À ventiler,Relevé bancaire SALESFLOW Novembre 2025.pdf,2025-11
+CT-155,2025-11-09,0U8029,Retrait caisse à justifier,Espèces,700.0,À ventiler,Relevé bancaire SALESFLOW Novembre 2025.pdf,2025-11
+CT-159,2025-11-12,571422,Déplacement / logistique,ONCF,70.0,À ventiler,Relevé bancaire SALESFLOW Novembre 2025.pdf,2025-11
+CT-160,2025-11-14,763694,Déplacement / logistique,ONCF,70.0,À ventiler,Relevé bancaire SALESFLOW Novembre 2025.pdf,2025-11
+CT-163,2025-11-24,139328,Paiement prestataire/freelance potentiel,Aymen,4000.0,À ventiler,Relevé bancaire SALESFLOW Novembre 2025.pdf,2025-11
+CT-164,2025-11-28,732334,Déplacement / logistique,ONCF,70.0,À ventiler,Relevé bancaire SALESFLOW Novembre 2025.pdf,2025-11
+CT-002,2025-12-10,362418,Déplacement / logistique,ONCF,270.0,À ventiler,Relevé bancaire SALESFLOW de Décembre 2025.pdf,2025-12
+CT-003,2025-12-10,973855,Déplacement / logistique,ONCF,270.0,À ventiler,Relevé bancaire SALESFLOW de Décembre 2025.pdf,2025-12
+CT-008,2025-12-19,347406,Déplacement / logistique,ONCF,70.0,À ventiler,Relevé bancaire SALESFLOW de Décembre 2025.pdf,2025-12
+CT-009,2025-12-22,142135,Déplacement / logistique,ONCF,70.0,À ventiler,Relevé bancaire SALESFLOW de Décembre 2025.pdf,2025-12
+CT-052,2026-01-15,606133,Déplacement / logistique,ONCF,70.0,À ventiler,Relevé bancaire SALESFLOW de Janvier 2026.pdf,2026-01
+CT-057,2026-01-16,407164,Déplacement / logistique,ONCF,70.0,À ventiler,Relevé bancaire SALESFLOW de Janvier 2026.pdf,2026-01
+CT-MAN-004,2026-02-06,439455,Outil IA,OpenAI,1124.91,À ventiler,Relevé bancaire SALESFLOW Février/Mars 2026.pdf,2026-02
+CT-064,2026-02-09,634618,Déplacement / logistique,ONCF,70.0,À ventiler,Relevé bancaire SALESFLOW de Fevrier 2026.pdf,2026-02
+CT-065,2026-02-09,846352,Déplacement / logistique,ONCF,70.0,À ventiler,Relevé bancaire SALESFLOW de Fevrier 2026.pdf,2026-02
+CT-066,2026-02-09,857840,Déplacement / logistique,ONCF,70.0,À ventiler,Relevé bancaire SALESFLOW de Fevrier 2026.pdf,2026-02
+CT-067,2026-02-10,652851,Déplacement / logistique,ONCF,100.0,À ventiler,Relevé bancaire SALESFLOW de Fevrier 2026.pdf,2026-02
+CT-073,2026-02-19,969758,Déplacement / logistique,ONCF,70.0,À ventiler,Relevé bancaire SALESFLOW de Fevrier 2026.pdf,2026-02
+CT-077,2026-02-20,755415,Déplacement / logistique,ONCF,70.0,À ventiler,Relevé bancaire SALESFLOW de Fevrier 2026.pdf,2026-02
+CT-078,2026-02-20,500003,Retrait caisse à justifier,Espèces,6.0,À ventiler,Relevé bancaire SALESFLOW de Fevrier 2026.pdf,2026-02
+CT-079,2026-02-20,500003,Retrait caisse à justifier,Espèces,300.0,À ventiler,Relevé bancaire SALESFLOW de Fevrier 2026.pdf,2026-02
+CT-080,2026-02-23,800003,Retrait caisse à justifier,Espèces,6.0,À ventiler,Relevé bancaire SALESFLOW de Fevrier 2026.pdf,2026-02
+CT-081,2026-02-23,800003,Retrait caisse à justifier,Espèces,200.0,À ventiler,Relevé bancaire SALESFLOW de Fevrier 2026.pdf,2026-02
+CT-126,2026-03-05,109619,Déplacement / logistique,ONCF,70.0,À ventiler,Relevé bancaire SalesFlow Mars 2026.pdf,2026-03
+CT-127,2026-03-09,837068,Déplacement / logistique,ONCF,70.0,À ventiler,Relevé bancaire SalesFlow Mars 2026.pdf,2026-03
+CT-128,2026-03-09,442047,Déplacement / logistique,ONCF,40.0,À ventiler,Relevé bancaire SalesFlow Mars 2026.pdf,2026-03
+CT-MAN-005,2026-03-10,205389,Outil IA,OpenAI,1142.96,À ventiler,Relevé bancaire SalesFlow Mars 2026.pdf,2026-03
+CT-131,2026-03-16,0U1694,Retrait caisse à justifier,Espèces,300.0,À ventiler,Relevé bancaire SalesFlow Mars 2026.pdf,2026-03
+CT-136,2026-03-19,976340,Déplacement / logistique,ONCF,60.0,À ventiler,Relevé bancaire SalesFlow Mars 2026.pdf,2026-03
+CT-MAN-006,2026-03-25,141144,Outil IA,OpenAI,192.15,À ventiler,Relevé bancaire SalesFlow Mars 2026.pdf,2026-03
+CT-MAN-007,2026-03-25,144029,Outil IA,OpenAI,384.3,À ventiler,Relevé bancaire SalesFlow Mars 2026.pdf,2026-03
+CT-148,2026-03-30,072162,Déplacement / logistique,ONCF,60.0,À ventiler,Relevé bancaire SalesFlow Mars 2026.pdf,2026-03
